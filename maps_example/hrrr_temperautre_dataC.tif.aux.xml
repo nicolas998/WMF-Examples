@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>0[-] SFC="Ground or water surface"</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">27.972741699219</MDI>
+      <MDI key="STATISTICS_MEAN">22.99317777163</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">5.5724147065239</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
